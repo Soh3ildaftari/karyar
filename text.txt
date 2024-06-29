@@ -1,0 +1,6 @@
+In Python, you can use the pprint module for
+ a functionality similar to var_dump in PHP
+ . The pprint module provides a pprint() funct
+ ion that "pretty prints" the object, displaying 
+ nested structures in a readable format.
+Here's an example of how you can use pprint in Python:
