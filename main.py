@@ -3,7 +3,7 @@ os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame as pg
 from pygame.locals import*
 import random
-import numpy as np
+# import numpy as np
 import sys
 import time
 import random as rand
